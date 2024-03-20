@@ -2,4 +2,3 @@
 
 env.component="catalogue"
 nodejs()
-//
